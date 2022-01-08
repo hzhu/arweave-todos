@@ -1,0 +1,9 @@
+{
+  "short_name": "Arweave Todo App",
+  "name": "Todo app on the permaweb",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
